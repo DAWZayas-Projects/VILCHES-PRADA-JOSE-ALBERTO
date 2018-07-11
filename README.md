@@ -1,5 +1,7 @@
 # VILCHES-PRADA-JOSE-ALBERTO
-Proyecto basado en los lenguajes: 
+Proyecto TAU: 
+---------------------------------
+Lenguajes Necesarios: 
 ---------------------------------
 Python, Node.js, Angular.js, 
 
