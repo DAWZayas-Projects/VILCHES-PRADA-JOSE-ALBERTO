@@ -1,5 +1,5 @@
 # VILCHES-PRADA-JOSE-ALBERTO
-Proyecto TAU: 
+Proyecto TAU
 ---------------------------------
 Lenguajes Necesarios: 
 ---------------------------------
@@ -55,7 +55,7 @@ Cable Usb x2
 
 Chasis robot tortuga de dos ruedas y dos bandejas (posible ampliacion a tres)
 
-Blindaje mediante material ferroso para evitar interferencias electrmagneticas entre los magnetometros y los demas componentes (motores principalmente)
+Blindaje mediante material ferroso para evitar interferencias electromagneticas entre los magnetometros y los demas componentes (motores principalmente)
 
 Software Necesario:
 -------------------
