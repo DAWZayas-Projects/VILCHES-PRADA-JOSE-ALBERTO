@@ -3,7 +3,7 @@ Proyecto TAU
 ---------------------------------
 Lenguajes Necesarios: 
 ---------------------------------
-Python, Node.js, Angular.js, 
+Python, Node.js, Angular.js
 
 Con implementacion de OpenCv para el reconocimiento de imagen.
 
@@ -64,5 +64,20 @@ Raspbian Lite (Sin entorno grafico)-(Linux Debian)
 Atom / VS Code
 
 Chrome / FireFox
+
+Actualizacion de estado:
+------------------------
+
+Se ha conectado y leido informacion entre Raspberry Pi y el modulo Hmc5883l mediante i2c (en proceso de calibrado)
+
+Se ha conectado y leido informacion entre Arduino y el modulo Hmc5883l mediante i2c (en proceso de calibrado)
+
+Se ha conectado e intercambiado informacion entre Arduino y Raspberry Pi
+
+Se ha conectado y controlado tres servos desde Raspberry Pi mediante Python y JavaScript (independientemente)
+
+Se ha iniciado OpenCv en reconocimiento de tonalidades cromaticas (en desarrollo)
+
+Se ha iniciado el desarrollo de la parte Node.js + Angular.js
 
 En breve se ampliara este Readme con mas informacion y avances.
