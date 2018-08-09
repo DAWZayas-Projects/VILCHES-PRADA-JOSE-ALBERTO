@@ -3,7 +3,7 @@ Proyecto TAU
 ---------------------------------
 Lenguajes Necesarios: 
 ---------------------------------
-Python, Node.js, Angular.js
+Python, Node.js, React.js
 
 Con implementacion de OpenCv para el reconocimiento de imagen.
 
@@ -79,5 +79,13 @@ Se ha conectado y controlado tres servos desde Raspberry Pi mediante Python y Ja
 Se ha iniciado OpenCv en reconocimiento de tonalidades cromaticas (en desarrollo)
 
 Se ha iniciado el desarrollo de la parte Node.js + Angular.js
+
+Se ha creado una App con Angular
+
+Error encontrado, librerias de Robotica no compatibles con Angular, tras dos semanas de intento se migra la app a React
+
+Se ha iniciado el desarrollo de la parte Node.js + React.js
+
+Se inician las pruebas de compatibilidad de librerias de Robotica con Node.js + React.js
 
 En breve se ampliara este Readme con mas informacion y avances.
