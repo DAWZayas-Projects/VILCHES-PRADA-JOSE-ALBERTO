@@ -1,13 +1,22 @@
-VILCHES-PRADA-JOSE-ALBERTO
-Proyecto TAU
-Lenguajes Necesarios:
+#VILCHES-PRADA-JOSE-ALBERTO
+
+# install dependencies
+$ npm install # Or yarn install
+
+# serve with hot reload at localhost:3000
+$ npm start
+
+##Proyecto TAU##
+
+#Lenguajes Necesarios:
 
 Python, Node.js, React.js
 
 Con implementacion de OpenCv para el reconocimiento de imagen.
 
 Implementado en Raspberry Pi 2B+ junto a Arduino Nano V3
-Hardware Necesario:
+
+#Hardware Necesario:
 
 Rasberry Pi 2B+ x1
 
