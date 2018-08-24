@@ -1,16 +1,14 @@
-# VILCHES-PRADA-JOSE-ALBERTO
+VILCHES-PRADA-JOSE-ALBERTO
 Proyecto TAU
----------------------------------
-Lenguajes Necesarios: 
----------------------------------
+Lenguajes Necesarios:
+
 Python, Node.js, React.js
 
 Con implementacion de OpenCv para el reconocimiento de imagen.
 
 Implementado en Raspberry Pi 2B+ junto a Arduino Nano V3
-
 Hardware Necesario:
--------------------
+
 Rasberry Pi 2B+ x1
 
 Arduino Nano V3 x1
@@ -56,17 +54,14 @@ Cable Usb x2
 Chasis robot tortuga de dos ruedas y dos bandejas (posible ampliacion a tres)
 
 Blindaje mediante material ferroso para evitar interferencias electromagneticas entre los magnetometros y los demas componentes (motores principalmente)
-
 Software Necesario:
--------------------
+
 Raspbian Lite (Sin entorno grafico)-(Linux Debian)
 
 Atom / VS Code
 
 Chrome / FireFox
-
 Actualizacion de estado:
-------------------------
 
 Se ha conectado y leido informacion entre Raspberry Pi y el modulo Hmc5883l mediante i2c (en proceso de calibrado)
 
@@ -88,4 +83,4 @@ Se ha iniciado el desarrollo de la parte Node.js + React.js
 
 Se inician las pruebas de compatibilidad de librerias de Robotica con Node.js + React.js
 
-En breve se ampliara este Readme con mas informacion y avances.
+En breve se ampliara este Readme con mas informacion y avances
