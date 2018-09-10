@@ -18,7 +18,7 @@ Implementado en Raspberry Pi 2B+ junto a Arduino Nano V3
 
 #Hardware Necesario:
 
-Rasberry Pi 2B+ x1
+Rasberry Pi 3B+ x1
 
 Arduino Nano V3 x1
 
@@ -29,8 +29,6 @@ Hmc5883l x2 (Magnetometro)
 Servo x3
 
 Doble Puente H (L298N) x1
-
-Adapdador Wifi x1
 
 Webcam x1
 
@@ -91,5 +89,7 @@ Error encontrado, librerias de Robotica no compatibles con Angular, tras dos sem
 Se ha iniciado el desarrollo de la parte Node.js + React.js
 
 Se inician las pruebas de compatibilidad de librerias de Robotica con Node.js + React.js
+
+Se ha cambiado la Rasberry 2b+ por una Rasberry 3b+ aumentando el rendimiento y disminuyendo el consumo de energia, tamaño y peso al prescindir del adaptador Wifi necesario para el modelo 2b+
 
 En breve se ampliara este Readme con mas informacion y avances
