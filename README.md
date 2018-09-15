@@ -92,4 +92,7 @@ Se inician las pruebas de compatibilidad de librerias de Robotica con Node.js + 
 
 Se ha cambiado la Rasberry 2b+ por una Rasberry 3b+ aumentando el rendimiento y disminuyendo el consumo de energia, tamaño y peso al prescindir del adaptador Wifi necesario para el modelo 2b+
 
+Tras dos semanas:
+Se ha concluido el Websocket con OpenCv en Node para que haga Streaming de video de la WebCam de Tau, (100% funcional a 30FPS y sin lag)
+
 En breve se ampliara este Readme con mas informacion y avances
