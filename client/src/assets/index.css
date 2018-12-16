@@ -1,0 +1,44 @@
+body {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+}
+
+@font-face {
+    font-family: 'audiowide';
+    src: url('./fonts/audiowide.woff2') format('woff2'),
+         url('./fonts/audiowide.woff') format('woff'),
+         url('./fonts/audiowide.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'perfect_dark_brkregular';
+    src: url('./fonts/perfectdark.woff2') format('woff2'),
+         url('./fonts/perfectdark.woff') format('woff'),
+         url('./fonts/perfectdark.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+/*
+@media only screen and (orientation:portrait){
+    body {
+        height: 100vw;
+        -webkit-transform: rotate(90deg);
+        -moz-transform: rotate(90deg);
+        -o-transform: rotate(90deg);
+        -ms-transform: rotate(90deg);
+        transform: rotate(90deg);
+    }
+}
+
+@media only screen and (orientation:landscape){
+    body {
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+}*/

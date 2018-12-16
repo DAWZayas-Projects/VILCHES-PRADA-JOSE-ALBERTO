@@ -1,0 +1,9 @@
+/*navigationBarAutoPilot component css*/
+.navigationBarContainer{
+    
+}
+.navigationBarContainer button{
+    font-family: 'audiowide';
+    font-weight: bold;
+    font-size: 1.5em;
+}

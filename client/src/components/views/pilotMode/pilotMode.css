@@ -1,0 +1,48 @@
+.headerPageMove {
+    position: absolute;
+    left: 0;
+}
+.headerPageCamera {
+    position: absolute;
+    right: 0;
+}
+
+.button .exit{
+  position: absolute;
+  top: 1%; /* position the top  edge of the element at the middle of the parent */
+  left: 50%; /* position the left edge of the element at the middle of the parent */
+  transform: translate(-50%, -50%);
+}
+
+.img-center {
+    margin:0 auto;
+}
+
+.streaming {
+    width: 80%;
+}
+
+.containerImagen{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.joystickLeft{
+    position: absolute;
+    left: 6%;
+    width: 10%;
+    height: 75%;
+    top: 15%;
+}
+
+.joystickRight{
+    position: absolute;
+    right: 6%;
+    width: 10%;
+    height: 75%;
+    top: 15%;
+}
+

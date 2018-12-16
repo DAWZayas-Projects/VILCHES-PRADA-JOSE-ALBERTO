@@ -1,0 +1,14 @@
+/*autoPilotMode component css*/
+.col-centered{
+    float: none;
+    margin: 0 auto;
+    text-align: center;
+}
+
+p{
+    color: white;
+}
+
+button{
+    margin: 1em;
+}
