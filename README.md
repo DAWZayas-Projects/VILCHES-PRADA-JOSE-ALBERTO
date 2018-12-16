@@ -1,21 +1,21 @@
-#VILCHES-PRADA-JOSE-ALBERTO
+## VILCHES-PRADA-JOSE-ALBERTO
 
 ## INFOMAIL: hysteriashoot@gmail.com ##
 ## INFOINSTAGRAM: @hysteriashoot ##
 
-# install dependencies
+## install dependencies
 $ npm install # Or yarn install
 
-# serve with hot reload at localhost:3000
+## serve with hot reload at localhost:3000
 $ npm start
 
-#Note
+## Note
 Change websockets endpoints to localhost:xxxx 
 xxxx is your app port
 
-##Proyecto TAU##
+## Proyecto TAU ##
 
-#Lenguajes Necesarios:
+## Lenguajes Necesarios:
 
 Javascript
 
@@ -23,7 +23,7 @@ Con implementacion de OpenCv, React.js, Node.js
 
 Plataforma Raspberry Pi 3B+
 
-#Hardware Necesario:
+## Hardware Necesario:
 
 Rasberry Pi 3B+ x1
 
